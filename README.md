@@ -7,3 +7,4 @@ Site :
 https://hbolmont.github.io/Ubisoft/
 
 ![écran de zoning](logo-ubi-provisoire.ico)
+![écran prototype](logo-ubi-provisoire.ico)
