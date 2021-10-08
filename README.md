@@ -5,3 +5,5 @@ Groupe de S1A2 composé de Dockwiller Lucas, Moumen Taha, Fridelance Raphaël et
 Site : 
 
 https://hbolmont.github.io/Ubisoft/
+
+![écran de zoning](logo-ubi-provisoire.ico)
