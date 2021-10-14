@@ -7,5 +7,5 @@ Site :
 https://hbolmont.github.io/Ubisoft/
 
 ![écran de zoning](doc/ecran_zoning.png)
-![écran prototype](logo-ubi-provisoire.ico)
+![écran prototype](doc/prototype.png)
 ![logo](/images/logo_small.png)
