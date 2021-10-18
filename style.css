@@ -10,13 +10,13 @@ header{
 }
 .image{
     float: left;
-    margin-left:5%;
-    margin-right:5%;
+    margin-left:2%;
+    margin-right:2%;
 }
 .image1{
     float: right;
-    margin-left:5%;
-    margin-right:5%;
+    margin-left:2%;
+    margin-right:2%;
     }
 p{
     padding-left: 5%;
