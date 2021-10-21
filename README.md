@@ -6,6 +6,8 @@ Site :
 
 https://hbolmont.github.io/Ubisoft/
 
+[écran prototype](doc/nom.pdf)
+
 ![écran de zoning](doc/ecran_zoning.png)
 ![écran prototype](doc/prototype.png)
 ![logo](/images/logo_small.png)
