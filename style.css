@@ -78,3 +78,13 @@ figcaption {
     margin-left:5%;
     margin-right:5%;
 }
+
+h3{
+    padding-left: 5%;
+}
+
+.index{
+    padding-left: 7%;
+    padding-right: 20%;
+    font-size : 19px;
+}
